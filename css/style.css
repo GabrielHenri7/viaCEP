@@ -1,0 +1,13 @@
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+form{
+    display: flex;
+    flex-flow: column;
+    margin-top: 20vh;
+}
+
